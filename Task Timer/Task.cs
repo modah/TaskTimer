@@ -8,7 +8,7 @@ namespace Task_Timer
 {
     class Task : IComparable
     {
-        private bool isActive = false;
+
         private long timeDifference = 0; //in seconds
 
         public Task(string taskName)
@@ -20,10 +20,9 @@ namespace Task_Timer
         public List<TimeEntry> TimeEntries { get; set; }
 
         public string Taskname { get; set; }
-        public bool IsActive
-        {
-            get { return isActive; }
-        }
+
+        public bool IsActive {get; private set;}
+
         public long TimeDifference
         {
             get { return timeDifference; }
