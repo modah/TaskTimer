@@ -1,0 +1,40 @@
+﻿- TODO - korrekte zeitanzeige für aktuellen task testen!
+
+- aufgelaufene zeit in popup menü dem tasknamen voranstellen (z.B. [0,75])
+- option für zielzeitanzeige (feierabendzeitpunkt)
+- autosave konfigurierbar machen
+- dateianhängsel (stop,exit,manual) für dateinamen
+- BATT Timing für Countdown implementieren und Feierabend-Meldung testen
+- auswahlliste für alte tasks, chronologisch (keine duplikate)
+- Ende-Zeit bei Druck auf Stop merken
+- nach der zeitkorrektur automatisch den balloon tip (f12) einblenden
+- label im korrekturformular rot, wenn die minuszahl größer ist als die aktuell aufgelaufene zeit
+- hotkey hilfe
+- wenn rot und themawechsel + bestätigung oder themawechsel im tray, dann grün
+- Auswahldialog bei mehr als einer Ticketnummer
+- teilzeiten auf andere themen umbuchen
+- deadkeys reparieren
+- tray popup mit hinweis auf aktuell gezeiteten task
+- grid für dauer, ticketnummer, gebuchte zeit - http://www.codeproject.com/KB/combobox/MultiColumnComboBoxEx.aspx
+- cooles tray icon - http://www.codeproject.com/KB/miscctrl/notifyiconchart.aspx
+- zielordner konfigurierbar machen
+- BUG: rundung auf 1 nachkommastelle
+- zielzeiteingabe optional als zeitvorgabe verwenden
+- tasks nach dauer sortiert in csv datei schreiben
+- BUG/FEATURE: zeiten werden auf null gesetzt, wenn timer über nacht läuft - erledigt sich mit datenbank
+- tray icons für grün/rot
+- drop down auswahlliste mit teilbegriff als suchvorgabe bei eingabe
+- exaktes timing bei tagesübergreifenden tasks
+- tasks und time entries in lokaler db ablegen
+- auswertung für bestimmte tage ermöglichen
+- zeitbuchblatt automatisch füllen
+- aufgabenliste aus batt füllen
+- click once
+
+fragewürdige requests
+- taskliste speichern
+
+bugs
+- task timer läuft weiter, fenster ist verschwunden
+  gemeldet von haiko am 18.03.10
+  nicht reproduzierbar
