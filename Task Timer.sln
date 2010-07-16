@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task Timer", "Task Timer\Task Timer.csproj", "{291B5EBE-8D2B-48AE-9F3F-2D4217ED4238}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gma.UserActivityMonitor", "Gma.UserActivityMonitor\Gma.UserActivityMonitor.csproj", "{F52AA97E-180A-40ED-8F2B-09080171D6C7}"
